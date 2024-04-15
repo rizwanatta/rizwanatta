@@ -8,7 +8,7 @@ I have been learning and coding for 8 years now majorly in domain of mobile apps
 
 * 🌍  I'm based in Jhang,Punjab, Pakistan
 * ✉️  You can contact me at [rizwanatta12516@gmail.com](mailto:rizwanatta12516@gmail.com)
-* 🚀  I'm currently working on [TicTag](http://tictag.com.br)
+* 🚀  I'm currently working on Better Choices
 * 🧠  I'm learning Django as backend
 
 <a href="https://www.x.com/rizwanatta2" target="_blank" rel="noreferrer"><img
