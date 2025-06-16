@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer ( I use Vim BTW )
 -----------------------------------
 
-I have been learning and coding for 8 years now majorly in domain of mobile apps and frontend engineering. Been around the block as tech Instructor at several technical institutes. Currently working as a Technical Trainer at Erozgaar Program in my Country.
+I have been learning and coding for 8 years now majorly in domain of mobile apps and frontend engineering. Been around the block as tech Instructor at several technical institutes. Currently working as a Software Engineer at @washmen.
 
 * 🌍  I'm based in Jhang,Punjab, Pakistan
 * ✉️  You can contact me at [rizwanatta12516@gmail.com](mailto:rizwanatta12516@gmail.com)
-* 🚀  I'm currently working on Better Choices
+* 🚀  I'm currently Working on React Native based products.
 * 🧠  I'm learning Django as backend
 
 <a href="https://www.x.com/rizwanatta2" target="_blank" rel="noreferrer"><img
